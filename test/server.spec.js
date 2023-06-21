@@ -40,4 +40,4 @@ describe('loopback server', function() {
       });
   });
 
-})
+});
